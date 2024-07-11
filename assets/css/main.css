@@ -541,7 +541,7 @@ html.has-scroll-dragging {
 .cMarquee {
   font-family: Arial, sans-serif;
   font-weight: 600;
-  letter-spacing: 0.055em;
+  color: #00ccff;
   overflow: hidden;
   line-height: 1;
   white-space: nowrap;
@@ -967,6 +967,7 @@ body.-open {
   .cMarquee {
     font-size: 1.25rem;
     margin: 0 6.25rem;
+  color: #00ccff;
   }
   .cMarquee-line {
     animation: marquee-pc 24s linear infinite;
@@ -1092,6 +1093,7 @@ body.-open {
   }
   .cMarquee {
     font-size: 1rem;
+  color: #00ccff;
     margin: 0 2.15625rem;
   }
   .cMarquee-line {
@@ -1194,6 +1196,7 @@ body.-open {
 @media screen and (min-width: 768px) and (max-width: 800px) {
   .cMarquee {
     font-size: 10px;
+  color: #00ccff;
   }
 }
 @media screen and (max-width: 414px) and (min-width: 400px) {

@@ -40,7 +40,7 @@
 }
 .lHero-titleJp {
   display: block;
-  color: #ccc;
+  color: #eee;
 }
 .lHero-marquee {
   position: fixed;
@@ -505,8 +505,8 @@
     margin-top: 0.5rem;
   }
   .lHero-logo-img {
-    width: 9.375rem;
-    height: 6.25rem;
+    width: 7rem;
+    height: 7rem;
   }
   .lHero-marquee {
     bottom: 2.25rem;
@@ -858,7 +858,7 @@
     margin-top: 2.125rem;
   }
   .lHero-logo-img {
-    width: 5.0625rem;
+    width: 3.375rem;
     height: 3.375rem;
   }
   .lHero-marquee {
